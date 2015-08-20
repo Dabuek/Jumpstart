@@ -1,5 +1,7 @@
 #!/usr/bin/python
-# Developed by Daniel Stewart
+# Use this script to configure Oracle support in Kali 2.0
+# Requires the 12_1 oracle zip and Ruby oci8-2.1.7 file(s)
+# Restart required after Ruby install
 # Release 0.1 18/09/2015
 import os, zipfile
 
